@@ -1,0 +1,30 @@
+{
+  "main": "views/main.html",
+  "name": "litecalc",
+  "description": "A lite and easy to use calculator.",
+  "version": "1.0.2",
+  "keywords": [
+    "calculator",
+    "js",
+    "lite",
+    "software",
+    "program",
+    "node",
+    "nwjs",
+    "nodewebkit"
+  ],
+  "window": {
+    "title": "LiteCalc",
+    "icon": "images/icon.png",
+    "toolbar": false,
+    "frame": true,
+    "width": 256,
+    "height": 318,
+    "position": "mouse",
+    "resizable": false,
+    "as_desktop": true
+  },
+  "webkit": {
+    "plugin": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "litecalc",
+  "version": "1.0.0-pr",
+  "description": "A lite and easy to use calculator.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "nw src/"
+  },
+  "keywords": [
+    "calculator",
+    "js",
+    "lite",
+    "software",
+    "program",
+    "node",
+    "nwjs",
+    "nodewebkit"
+  ],
+  "author": "Anthony I. Jackson",
+  "license": "ISC",
+  "devDependencies": {
+    "nw": "^0.82.0-sdk",
+    "nw-builder": "^4.3.0"
+  },
+  "dependencies": {
+    "mathjs": "^12.1.0"
+  }
+}
